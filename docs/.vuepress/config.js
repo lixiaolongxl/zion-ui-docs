@@ -46,6 +46,7 @@ module.exports = {
                     children:[
                         '/component/component/Button',
                         '/component/component/Magnifier',
+                        '/component/component/ZGverify'
                     ]
                 }
             ]
