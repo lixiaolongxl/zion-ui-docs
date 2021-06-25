@@ -27,7 +27,10 @@ app.mount('#app')
 ``` js{3,4}
 import { createApp } from 'vue'
 import App from './App.vue'
+
 import { ZButton } from 'zion-ui-plus';
+import 'zion-ui-plus/lib/button.css'
+
 const app = createApp(App)
 app.component(ZButton.name, ZButton);
 app.mount('#app')
