@@ -13,7 +13,7 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import ZIONUI from "zion-ui-plus"
-import 'zion-ui-plus/theme-chalk/ZIONUI.css'
+import 'zion-ui-plus/lib/index.css'
 
 const app = createApp(App)
 app.use(ZIONUI)
