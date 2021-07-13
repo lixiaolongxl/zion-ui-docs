@@ -47,7 +47,8 @@ module.exports = {
                         '/component/component/Button',
                         '/component/component/Magnifier',
                         '/component/component/ZGverify',
-                        '/component/component/ZCropper'
+                        '/component/component/ZCropper',
+                        '/component/component/Ellipsis'
                     ]
                 }
             ]
